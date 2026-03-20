@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mi Perfil Interactivo con Kotlin</string>
+    <string name="titulo_formulario">Actividad: Mi Perfil Interactivo</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_edad">Edad</string>
+    <string name="label_profesion">Selecciona tu profesion</string>
+    <string name="profesion_estudiante">Estudiante</string>
+    <string name="profesion_desarrollador">Desarrollador/a</string>
+    <string name="profesion_profesor">Profesor/a</string>
+    <string name="profesion_sin_especificar">Sin especificar</string>
+    <string name="boton_generar_perfil">Generar Perfil</string>
+    <string name="perfil_inicial">Tu perfil aparecera aqui</string>
+    <string name="error_campos_obligatorios">Por favor, completa todos los campos</string>
+    <string name="error_edad_invalida">Edad no valida</string>
+    <string name="mensaje_joven">Hola %1$s, eres un/a joven %2$s.</string>
+    <string name="mensaje_formacion">Hola %1$s, un/a %2$s en plena formacion.</string>
+    <string name="mensaje_activo">Hola %1$s, profesional activo/a como %2$s.</string>
+    <string name="mensaje_experiencia">Hola %1$s, con experiencia como %2$s.</string>
+</resources>
